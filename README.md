@@ -1,4 +1,4 @@
-# Emotion Detection from Facial Images
+# SentioSphere: Decoding Emotions Through Vision
 
 This project is focused on detecting human emotions from facial images using Novel CNN Model. The model is trained on the CK+ dataset from Kaggle, achieving an accuracy of 99%. The implementation involves preprocessing, data augmentation, and building a custom convolutional neural network with advanced layers and blocks, such as Depthwise Convolutions and Squeeze-and-Excitation blocks, for feature extraction.
 
